@@ -1,0 +1,3 @@
+Imager - select OS >>> CTRL+SHIFT+X (configure options) >> write to card >> remove card >> insert card in PI
+
+default SSH pw = <password>
